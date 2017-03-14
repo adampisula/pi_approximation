@@ -1,0 +1,9 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\bin\Debug\pi_approximation_wf.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\bin\Debug\pi_approximation_wf.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\bin\Debug\pi_approximation_wf.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.Form1.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\pi_approximation_wf\pi_approximation_wf\obj\Debug\pi_approximation_wf.pdb
