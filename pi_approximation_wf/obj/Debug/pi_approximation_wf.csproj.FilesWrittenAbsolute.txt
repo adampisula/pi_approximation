@@ -1,0 +1,8 @@
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/obj/Debug/pi_approximation_wf.Form1.resources
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/obj/Debug/pi_approximation_wf.Properties.Resources.resources
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/bin/Debug/pi_approximation_wf.exe.config
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/bin/Debug/pi_approximation_wf.pdb
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/bin/Debug/pi_approximation_wf.exe
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/obj/Debug/pi_approximation_wf.exe
+/root/Documents/Projects/pi_approximation/pi_approximation_wf/obj/Debug/pi_approximation_wf.pdb
